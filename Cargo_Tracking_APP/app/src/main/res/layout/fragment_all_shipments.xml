@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Toolbar ekleniyor -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_shipments"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:title="Gönderiler"
+        android:titleTextColor="@android:color/white" />
+
+    <ListView
+        android:id="@+id/lvShipments"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

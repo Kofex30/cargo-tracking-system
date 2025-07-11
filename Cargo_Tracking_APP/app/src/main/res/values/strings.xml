@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cargo_App_3</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="receiver_name">Receiver Name</string>
+    <string name="destination_address">Destination Address</string>
+    <string name="status">Status</string>
+    <string name="qr_code">QR Code</string>
+    <string name="kullanici_adi">kullanici_adi</string>
+    <string name="giri_yap">Giriş Yap</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
